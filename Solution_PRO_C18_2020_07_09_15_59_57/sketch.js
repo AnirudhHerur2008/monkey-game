@@ -69,6 +69,8 @@ function draw() {
                 break;
         case 40: player.scale=0.18;
                 break;
+      case 50: player.scale=0.20;
+        break;
         default: break;
     }
   
